@@ -1,0 +1,47 @@
+Round,Pick,Player,Pos.,NWSL team,College,Age_x,Born_x,MP_x,Starts_x,Min_x,90s_x,Gls_x,Ast_x,G+A_x,G-PK_x,season_x,Age_y,Born_y,MP_y,Starts_y,Min_y,90s_y,Gls_y,Ast_y,G+A_y,G-PK_y,season_y
+Round 1,1,Morgan Gautrat,M,Houston Dash,Virginia,21.0,1993.0,10.0,10.0,810,9.0,0.0,3.0,3.0,0.0,2015,22.0,1993.0,13.0,13.0,"1,005",11.2,0.0,0.0,0.0,0.0,2016.0
+Round 1,2,Sarah Woldmoe,M,Sky Blue FC,UCLA,22.0,1992.0,17.0,13.0,"1,233",13.7,0.0,1.0,1.0,0.0,2015,23.0,1992.0,18.0,18.0,"1,606",17.8,3.0,1.0,4.0,0.0,2016.0
+Round 1,3,Abby Dahlkemper,D,Western New York Flash,UCLA,21.0,1993.0,20.0,20.0,"1,784",19.8,0.0,1.0,1.0,0.0,2015,22.0,1993.0,20.0,20.0,"1,800",20.0,2.0,1.0,3.0,0.0,2016.0
+Round 1,4,Sam Mewis,M,Western New York Flash,UCLA,22.0,1992.0,20.0,20.0,"1,685",18.7,4.0,4.0,8.0,4.0,2015,23.0,1992.0,14.0,14.0,"1,260",14.0,5.0,2.0,7.0,4.0,2016.0
+Round 1,5,Stephanie McCaffrey,F,Chicago Red Stars,Boston College,21.0,1993.0,19.0,17.0,"1,418",15.8,3.0,3.0,6.0,3.0,2015,22.0,1993.0,18.0,15.0,"1,276",14.2,2.0,0.0,2.0,2.0,2016.0
+Round 1,6,Lynn Williams,F,Western New York Flash,Pepperdine,21.0,1993.0,17.0,13.0,"1,176",13.1,4.0,4.0,8.0,4.0,2015,22.0,1993.0,19.0,19.0,"1,671",18.6,11.0,5.0,16.0,11.0,2016.0
+Round 1,7,Jaelene Daniels,D,Western New York Flash,Texas Tech,21.0,1993.0,20.0,20.0,"1,800",20.0,1.0,1.0,2.0,1.0,2015,22.0,1993.0,15.0,15.0,"1,327",14.7,1.0,3.0,4.0,0.0,2016.0
+Round 1,8,Arin Wright,D,Chicago Red Stars,Kentucky,22.0,1992.0,19.0,17.0,"1,533",17.0,0.0,2.0,2.0,0.0,2015,23.0,1992.0,20.0,20.0,"1,718",19.1,0.0,4.0,4.0,0.0,2016.0
+Round 1,9,Danielle Colaprico,M,Chicago Red Stars,Virginia,21.0,1993.0,20.0,20.0,"1,776",19.7,1.0,0.0,1.0,1.0,2015,22.0,1993.0,20.0,20.0,"1,784",19.8,0.0,2.0,2.0,0.0,2016.0
+Round 2,10,Kristin Grubka,D,Sky Blue FC,Florida State,22.0,1992.0,14.0,14.0,"1,214",13.5,0.0,1.0,1.0,0.0,2015,23.0,1992.0,15.0,14.0,"1,267",14.1,0.0,1.0,1.0,0.0,2016.0
+Round 2,11,Sofia Huerta,F,Chicago Red Stars,Santa Clara,22.0,1992.0,19.0,15.0,"1,343",14.9,6.0,3.0,9.0,6.0,2015,23.0,1992.0,20.0,20.0,"1,742",19.4,7.0,2.0,9.0,7.0,2016.0
+Round 2,12,Shea Groom,F,FC Kansas City,Texas A&M,21.0,1993.0,13.0,9.0,788,8.8,4.0,2.0,6.0,4.0,2015,22.0,1993.0,19.0,19.0,"1,660",18.4,8.0,0.0,8.0,8.0,2016.0
+Round 2,13,Megan Oyster,D,Washington Spirit,UCLA,22.0,1992.0,20.0,20.0,"1,800",20.0,1.0,0.0,1.0,1.0,2015,23.0,1992.0,15.0,15.0,"1,341",14.9,0.0,0.0,0.0,0.0,2016.0
+Round 2,14,Jamia Fields,F,Boston Breakers,Florida State,21.0,1993.0,10.0,7.0,582,6.5,1.0,0.0,1.0,1.0,2015,22.0,1993.0,12.0,6.0,627,7.0,0.0,1.0,1.0,0.0,2016.0
+Round 2,15,Havana Solaun,M,Seattle Reign FC,Florida,,,,,,,,,,,2015,22.0,1993.0,6.0,3.0,274,3.0,1.0,0.0,1.0,1.0,2016.0
+Round 2,16,Meghan Lisenby,D,FC Kansas City,Texas A&M,22.0,1992.0,5.0,0.0,14,0.2,0.0,0.0,0.0,0.0,2015,,,,,,,,,,,
+Round 2,18,Tatiana Coleman,F,Western New York Flash,UCF,,,,,,,,,,,2015,,,,,,,,,,,
+Round 3,19,Caprice Dydasco,D,Washington Spirit,UCLA,21.0,1993.0,6.0,1.0,196,2.2,0.0,0.0,0.0,0.0,2015,22.0,1993.0,12.0,12.0,"1,080",12.0,0.0,2.0,2.0,0.0,2016.0
+Round 3,20,Sam Lofton,D,Boston Breakers,James Madison,,,,,,,,,,,2015,23.0,1992.0,3.0,0.0,54,0.6,0.0,0.0,0.0,0.0,2016.0
+Round 3,22,Daphne Corboz,M,Sky Blue FC,Georgetown,,,,,,,,,,,2015,,,,,,,,,,,
+Round 3,23,Cara Walls,F,Chicago Red Stars,Wisconsin,21.0,1993.0,10.0,1.0,256,2.8,1.0,1.0,2.0,1.0,2015,22.0,1993.0,12.0,8.0,702,7.8,1.0,0.0,1.0,1.0,2016.0
+Round 3,24,Bianca Brinson,F,Boston Breakers,Texas A&M,,,,,,,,,,,2015,,,,,,,,,,,
+Round 3,25,Shade Pratt,D,Sky Blue FC,Maryland,21.0,1993.0,1.0,0.0,20,0.2,0.0,0.0,0.0,0.0,2015,22.0,1993.0,5.0,1.0,140,1.6,0.0,0.0,0.0,0.0,2016.0
+Round 3,26,Jessica Ayers,M,FC Kansas City,Colorado College,,,,,,,,,,,2015,,,,,,,,,,,
+Round 3,27,Nicole Setterlund,M,Chicago Red Stars,Washington State,,,,,,,,,,,2015,,,,,,,,,,,
+Round 4,28,Chioma Ubogagu,F,Sky Blue FC,Stanford,,,,,,,,,,,2015,23.0,1992.0,15.0,9.0,805,8.9,1.0,1.0,2.0,1.0,2016.0
+Round 4,29,Stephanie Verdoia,F,Boston Breakers,Seattle,22.0,1993.0,8.0,1.0,186,2.1,0.0,0.0,0.0,0.0,2015,23.0,1993.0,10.0,5.0,452,5.0,0.0,0.0,0.0,0.0,2016.0
+Round 4,30,Whitney Church,D,Washington Spirit,Penn State,21.0,1993.0,16.0,15.0,"1,364",15.2,0.0,0.0,0.0,0.0,2015,22.0,1993.0,11.0,7.0,612,6.8,0.0,0.0,0.0,0.0,2016.0
+Round 4,31,Carleigh Williams,D,Houston Dash,UCF,22.0,1992.0,2.0,1.0,151,1.7,0.0,0.0,0.0,0.0,2015,,,,,,,,,,,
+Round 4,32,Rachel Tejada,F,Chicago Red Stars,Illinois State,21.0,1993.0,2.0,0.0,16,0.2,0.0,0.0,0.0,0.0,2015,,,,,,,,,,,
+Round 4,33,Bianca Calderone,D,Boston Breakers,Northeastern,,,,,,,,,,,2015,,,,,,,,,,,
+Round 4,34,Lo'eau LaBonta,F,Sky Blue FC,Stanford,21.0,1993.0,6.0,0.0,80,0.9,0.0,0.0,0.0,0.0,2015,22.0,1993.0,11.0,7.0,693,7.7,0.0,0.0,0.0,0.0,2016.0
+Round 4,35,Kaysie Clark,M,FC Kansas City,Missouri,22.0,1993.0,1.0,0.0,6,0.1,0.0,0.0,0.0,0.0,2015,,,,,,,,,,,
+Round 4,36,Kendall Fletcher,D,Seattle Reign FC,Stanford,30.0,1984.0,19.0,19.0,"1,704",18.9,2.0,1.0,3.0,2.0,2015,31.0,1984.0,20.0,20.0,"1,755",19.5,1.0,0.0,1.0,1.0,2016.0
+Undrafted ,Undrafted ,Allie Bailey,M,Houston Dash,Texas A&M,21.0,1993.0,7.0,0.0,126,1.4,1.0,0.0,1.0,1.0,2015,,,,,,,,,,,
+Undrafted ,Undrafted ,Kate Bennett,M,Portland Thorns FC,Washington,,,1.0,1.0,45,0.5,0.0,0.0,0.0,0.0,2015,,,,,,,,,,,
+Undrafted ,Undrafted ,Taylor Comeau,D,Portland Thorns FC,California,21.0,1993.0,9.0,5.0,377,4.2,0.0,0.0,0.0,0.0,2015,22.0,1993.0,16.0,6.0,667,7.4,1.0,1.0,2.0,1.0,2016.0
+Undrafted ,Undrafted ,Theresa Diederich,M,Sky Blue FC,Alabama,22.0,1992.0,3.0,0.0,18,0.2,0.0,0.0,0.0,0.0,2015,,,,,,,,,,,
+Undrafted ,Undrafted ,Kelsey Haycook,F,Portland Thorns FC,La Salle,21.0,1993.0,4.0,1.0,81,0.9,0.0,0.0,0.0,0.0,2015,,,,,,,,,,,
+Undrafted ,Undrafted ,Riley Houle,M,Boston Breakers,UConn,,,1.0,0.0,19,0.2,0.0,0.0,0.0,0.0,2015,,,,,,,,,,,
+Undrafted ,Undrafted ,Chanel Johnson,M,Boston Breakers,Hartford,21.0,1993.0,1.0,0.0,14,0.2,0.0,0.0,0.0,0.0,2015,,,,,,,,,,,
+Undrafted ,Undrafted ,Alyssa Kleiner,D,Portland Thorns FC,Santa Clara,21.0,1993.0,8.0,4.0,418,4.6,0.0,1.0,1.0,0.0,2015,22.0,1993.0,17.0,12.0,"1,111",12.3,1.0,1.0,2.0,1.0,2016.0
+Undrafted ,Undrafted ,Lauren Lazo,D,Boston Breakers,Princeton,21.0,1993.0,14.0,11.0,"1,025",11.4,1.0,0.0,1.0,1.0,2015,,,,,,,,,,,
+Undrafted ,Undrafted ,Mary Luba,M,Chicago Red Stars,Marquette,21.0,1993.0,3.0,0.0,40,0.4,0.0,0.0,0.0,0.0,2015,22.0,1993.0,1.0,0.0,10,0.1,0.0,0.0,0.0,0.0,2016.0
+Undrafted ,Undrafted ,Cami Privett,M,Houston Dash,UC Irvine,21.0,1993.0,4.0,2.0,205,2.3,0.0,0.0,0.0,0.0,2015,22.0,1993.0,15.0,11.0,"1,056",11.7,0.0,0.0,0.0,0.0,2016.0
+Undrafted ,Undrafted ,Maruschka Waldus,D,Sky Blue FC,Alabama,22.0,1992.0,1.0,0.0,8,0.1,0.0,0.0,0.0,0.0,2015,,,,,,,,,,,
